@@ -1,0 +1,35 @@
+{
+  "title": "Hulala.pk",
+  "name": "Hulala.pk",
+  "version": "4.0.0-beta",
+  "description": "Ecommerce buisness solution",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "bootstrap",
+    "graphic design",
+    "banners designing"
+  ],
+  "homepage": "index.html",
+  "bugs": {
+    "url": "https://github.com/RidaRidss/Hulala.pk/issues",
+    "email": "rida.webdev.hulala@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Rida Bilgrami",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RidaRidss/Hulala.pk/.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
